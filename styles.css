@@ -144,7 +144,7 @@ input:checked + .slider:before {
     padding-bottom: 7px;
     color: hsl(228, 34%, 66%);
     letter-spacing: 3px;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 
