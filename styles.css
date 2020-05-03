@@ -125,7 +125,7 @@ input:checked + .slider:before {
     margin-left: 10px;
 }
 .total-number{
-    font-size: 4.5em;
+    font-size: 4em;
     padding: 0;
     margin: 20px 0;
     color: hsl(0, 0%, 100%);
@@ -152,8 +152,8 @@ input:checked + .slider:before {
 .overview-text{
     color: hsl(0, 0%, 100%);
     margin-top: 50px;
-    font-weight: 700;
-    font-size: 2em;
+    font-weight: 400;
+    font-size: 1.5em;
 }
 .overview-card-wrapper{
     display: grid;
@@ -187,7 +187,7 @@ input:checked + .slider:before {
     margin-top: 15px;
 }
 .count-container{
-    margin-top: 45px;
+    margin-top: 48px;
 }
 
 .total-number-white{
