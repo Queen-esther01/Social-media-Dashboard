@@ -16,7 +16,7 @@ main{
 }
 .heading{
     color: hsl(0, 0%, 100%);
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 .total-followers{
     margin-top: -10px;
@@ -125,7 +125,7 @@ input:checked + .slider:before {
     margin-left: 10px;
 }
 .total-number{
-    font-size: 4em;
+    font-size: 3em;
     padding: 0;
     margin: 20px 0;
     color: hsl(0, 0%, 100%);
@@ -140,11 +140,12 @@ input:checked + .slider:before {
     color: hsl(228, 34%, 66%);
 }
 .title{
-    margin-top: -25px;
-    padding-bottom: 7px;
+    margin-top: -23px;
+    padding-bottom: 8px;
     color: hsl(228, 34%, 66%);
     letter-spacing: 3px;
-    font-weight: 300;
+    font-weight: 200;
+    font-size: 0.8em;
 }
 
 
