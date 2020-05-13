@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const input = document.getElementById('input');
 const heading = document.querySelector('.heading');
 // const slider = document.querySelector('.slider');
@@ -52,3 +53,6 @@ if(input){
 //     //     }
 //      }
 // });
+=======
+Alert(`Toggle mode does not work yet, so does the cool popup I was supposed to display this message on, I'll take care of that soon, thank you for understanding &#9786;`)
+>>>>>>> 7970b26c6799b7e3a5d4dbea61797c8c0542b998
